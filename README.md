@@ -1,2 +1,0 @@
-# OpsWorks
-Test OpsWorks
